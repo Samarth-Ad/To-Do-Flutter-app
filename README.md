@@ -1,4 +1,4 @@
-# flutter_application_1
+# To Do mini project
 
 A new Flutter project.
 
